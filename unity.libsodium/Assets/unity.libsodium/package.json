@@ -5,7 +5,7 @@
         "name": "Eunpyoung Kim",
         "url": "https://github.com/netpyoung/unity.libsodium"
     },
-    "version": "0.2.1",
+    "version": "0.2.2",
     "unity": "2018.4",
     "description": "libsodium made easy for Unity3d.",
     "keywords": [ "libsodium", "unity.libsodium" ],
